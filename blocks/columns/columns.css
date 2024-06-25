@@ -4,7 +4,7 @@
 }
 
 .columns img {
-  width: 100%;
+  width: 85%;
 }
 
 .columns > div > div {
@@ -30,4 +30,8 @@
     flex: 1;
     order: unset;
   }
+}
+
+.columns-wrapper {
+    font-family: Axiforma-3;
 }

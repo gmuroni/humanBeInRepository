@@ -225,4 +225,12 @@ main .section.highlight {
   background-color: var(--light-color);
 }
 
+.default-content-wrapper {
+  font-family: Orbitron;
+}
+
+.cards-card-body {
+    font-family: Orbitron;
+}
+
 

@@ -225,10 +225,4 @@ main .section.highlight {
   background-color: var(--light-color);
 }
 
-.default-content-wrapper {
-  font-family: Obriten;
-}
 
-.cards-card-body {
-    font-family: Obriten;
-}

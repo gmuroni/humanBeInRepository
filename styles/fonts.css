@@ -27,7 +27,13 @@
   src: url('../fonts/FontsFree-Net-Axiforma1woff2_2.ttf') format('truetype');
 }
 
-body {
-  font-family: 'Axiforma', sans-serif;
+@font-face {
+  font-family: 'Axiforma-3';
+  src: url('../fonts/FontsFree-Net-Axiforma3woff2 1.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Axiforma-2';
+  src: url('../fonts/FontsFree-Net-Axiforma2woff2 1.ttf') format('truetype');
 }
 
